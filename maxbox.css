@@ -1,0 +1,19 @@
+.maxbox-bg {
+  background: rgba(0, 0, 0, 0.8);
+  height: 416px;
+  left: 0;
+  line-height: 416px;
+  position: fixed;
+  text-align: center;
+  top: 0;
+  width: 100%;
+  z-index: 100;
+}
+
+.maxbox-img {
+  vertical-align: middle;
+}
+
+* html .maxbox-bg {
+  position: absolute;
+}
