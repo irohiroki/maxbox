@@ -10,6 +10,10 @@ Feature
 - Suppress the address bar from popping on iPhone
 - Customizable
 
+Demo
+----
+["MaxBox" jQuery plugin Demo - YouTube](http://youtu.be/dlCLYzMBfb0)
+
 Usage
 -----
 ```html
